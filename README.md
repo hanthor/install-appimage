@@ -1,7 +1,8 @@
 # install-appimage
 
 I just AI'd this script to "install" Appimages without the use of FUSE.
-# Description: Installs an AppImage by extracting it and creating a .desktop file.
+## Description: 
+Installs an AppImage by extracting it and creating a .desktop file.
 # Features:
    - No FUSE required.
    - Extracts to ~/Applications/<AppName>.
